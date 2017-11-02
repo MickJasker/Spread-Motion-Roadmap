@@ -63,7 +63,7 @@ a:focus {
 
 /* Header */
 
-.codrops-header {
+.roadmap-header {
 	position: relative;
 	z-index: 1000;
 	display: -webkit-flex;
@@ -79,11 +79,11 @@ a:focus {
 	padding: 2em 1em 4em;
 	text-align: center;
 	color: #fff;
-	background: #181922 url(../img/journey/2.jpg) no-repeat center center;
+	background: #181922 url(../img/schoen_1.jpg) no-repeat center center;
 	background-size: cover;
 }
 
-.codrops-header::before {
+.roadmap-header::before {
 	content: '';
 	position: absolute;
 	top: 0;

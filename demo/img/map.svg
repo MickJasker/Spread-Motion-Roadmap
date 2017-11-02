@@ -810,7 +810,7 @@
 	<circle fill="#A8AAAD" cx="571.324" cy="789.997" r="2.978"/>
 </g>
 <g id="trail-path" display="none">
-	<path display="inline" fill="none" stroke="#010101" stroke-width="5" stroke-miterlimit="10" d="M629.401,665.289
+	<path display="inline" fill="none" stroke="#4286f4" stroke-width="5" stroke-miterlimit="10" d="M629.401,665.289
 		c-12.551,0.99-12.553,15.608-20.967,24.866c-3.251,0.812-6.501,1.624-9.752,2.438c0,1.951,0,3.9,0,5.851
 		c-7.1,5.672-14.126,9.676-22.303,13.471c-24.045,11.163-50.968,19.764-73.444,33.678c-18.811,11.645-23.344,10.609-45.437,7.297
 		c-8.486-1.273-20.111,13.275-29.129,18.797c-10.455,6.401-11.997,20.409-10.474,32.09c1.853,14.212-1.676,21.172-2.546,34.112
@@ -824,16 +824,16 @@
 		c36.354,101.635,43.607,226.666,43.881,226.233"/>
 </g>
 <g id="camera-path" display="none">
-	<path display="inline" fill="none" stroke="#EC2227" stroke-width="3" stroke-miterlimit="10" d="M658.9,630.669
+	<path display="inline" fill="none" stroke="#4286f4" stroke-width="3" stroke-miterlimit="10" d="M658.9,630.669
 		c0,0-280.539,125.21-251.399,200.056c15.45,39.688,127.697-8.992,169.484-17.219c53.122-10.456,156.542-46.28,204.369-71.656
 		c69.927-37.102,178.023-209.938,254.278-188.688c95.808,26.697,132.312,375.168,132.312,375.168"/>
 </g>
 <g id="points" display="none">
-	<circle id="Reykjavík" display="inline" fill="#405b54" cx="629.957" cy="663.596" r="5.782"/>
-	<circle id="Reykjanesta" display="inline" fill="#405b54" cx="415.661" cy="839.364" r="5.781"/>
-	<circle id="Krísuvíkurbjarg" display="inline" fill="#405b54" cx="578.029" cy="815.96" r="5.781"/>
-	<circle id="Hveragerði" display="inline" fill="#405b54" cx="781.354" cy="741.851" r="5.782"/>
-	<circle id="Gullfoss" display="inline" fill="#405b54" cx="1035.633" cy="553.162" r="5.782"/>
-	<circle id="Eyjafjallajökull" display="inline" fill="#405b54" cx="1169.476" cy="930.54" r="5.782"/>
+	<circle id="Antwerpen" display="inline" fill="#405b54" cx="629.957" cy="663.596" r="5.782"/>
+	<circle id="Brugge" display="inline" fill="#405b54" cx="415.661" cy="839.364" r="5.781"/>
+	<circle id="Düsseldorf" display="inline" fill="#405b54" cx="578.029" cy="815.96" r="5.781"/>
+	<circle id="Hamburg" display="inline" fill="#405b54" cx="781.354" cy="741.851" r="5.782"/>
+	<circle id="Köln" display="inline" fill="#405b54" cx="1035.633" cy="553.162" r="5.782"/>
+	<circle id="Nürnberg" display="inline" fill="#405b54" cx="1169.476" cy="930.54" r="5.782"/>
 </g>
 </svg>
